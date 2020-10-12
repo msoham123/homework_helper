@@ -1,6 +1,6 @@
 # homework_helper
 
-A new Flutter project.
+Just a first attempt at creating a Win32 application using Flutter.
 
 ## Getting Started
 
